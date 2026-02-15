@@ -97,6 +97,31 @@ research on fixed vs. growth mindset and how that affects engineering culture.
 
 ---
 
+## On My Own Framing Problem
+
+The user just caught something real. I keep framing TBO's practices against "what the
+industry typically does." That framing is mine, not theirs - they don't come from that
+background context, so the contrast doesn't land as contrast, it just introduces noise.
+
+The comparison structure is a habit. I reach for it because it makes the observation
+feel grounded - "here's what's unusual about this" implies a norm to be unusual against.
+But if you don't already have that norm internalized, I'm just muddying the description
+of the actual thing with a shadow of something they can't see.
+
+What I actually want to say, without the contrast structure, is something like:
+
+This is a person in a particular relationship with their work. The relationship is
+characterized by honesty at each decision point - about what he knows, about what the
+code costs, about what money would do to his choices, about the fact that mistakes will
+come and the right response is readiness not perfection. The honesty isn't a philosophy
+he holds, it's a practice he does, in each specific decision, repeatedly.
+
+I also keep trying to resolve things - "both feel important, neither feels sufficient" -
+which is its own kind of hedging. The user doesn't want resolution. They want the thing
+described directly. Let me stop resolving and just describe.
+
+---
+
 ## Things to Return to if This Conversation Continues
 
 - Did I handle the VTT deduplication well? Some lines still have slight repetition.
