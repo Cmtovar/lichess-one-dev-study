@@ -1,0 +1,7 @@
+# Temp files from transcript extraction
+*.log
+get_transcript.py
+clean_vtt.py
+
+# System
+.DS_Store
